@@ -1,0 +1,28 @@
+---
+court: "Supreme Court of Dakota"
+decided: "1875-12"
+citations: ["1 Dakota 285"]
+reporter: "dakota"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Danforth v. Charles, et al."]
+source_url: "https://static.case.law/dakota/1/cases/0285-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8586775
+cites_cases: ["12 Mich., 313"]
+---
+
+# Danforth v. Charles
+
+## Majority (BbNNbtt,-J.)
+
+BbNNbtt,-J.
+This appeal presents the question as to the right of plaintiff to recover on the stipulation in the mortgage for reasonable attorney’s 'fees.
+It is not claimed that a stipulation in this form, differs materially, so far as the right to recover thereon is concerned, from one wherein the amount is specified and fixed, as in the case of Farmers’ National Bank of Salem v. Rasmussen, (Ante 60) decided by this court at the January term, 1875. But it is now contended that the court in that case held that the stipulation came within the provisions of section 831, Civil Code, relating to liquidated damages, in cases where it would be impracticable or extremely difficult to fix the actual damage. And therefore by implication ruling that a stipulation for reasonable attorney’s fees could not be enforced. . And it is further insisted by counsel for appellees that either stipulation is void, as being prohibited by sections 829 and 830 of the Civil Code, which read as follows: “Penalties imposed by co-ntract for any non-performance, are void.” * * * “Every contract by which the amount of damage to be paid, or other compensation to be made for a breach of an obligation, is determined in anticipation thereof, is to that extent void, except as expressly provided by the next section.”
+Stipulations of this character have been and are now enforced by courts of equity in almost every State and Territory in this country, so far as I have been able to extend my examination; and yet no principle is better settled or of more universal application than that courts of equity will never enforce either a penalty or a forfeiture. (Story’s Eq. Jurisprudence, § 1319, and authorities cited.) Hence we are certainly justified in concluding that these courts have never construed a stipulation in a mortgage for attorney’s fees, to be either a penalty or forfeiture. But what is the meaning of the term penalty?
+It is defined to be a clause in an agreement, by which the obligor agrees to pay a certain sum of money, if he shall fail to fulfill the contract contained in another clause of the same agreement. A penal obligation differs from an alternative obligation, for this is but one in its essence; while a penalty always includes two distinct engagements, and when the first is fulfilled the second is void. When a breach has taken place the obligee has his option to require the fulfillment of the first obligation, or the ’payment of the penalty, (Bouvier’s Law Dic.) but not both. He cannot compel compliance with the conditions, and then pursue the penalty, or vise versa, he must elect. If these propositions are correct law, with what degree of accuracy can this stipulation be termed a penalty? Is it a sum to be paid in lieu of a compliance with conditions and in full discharge of the obligation? Must the mortgagee elect before bringing suit, and abandon all his other rights under the contract, if he would collect the fee? Certainly not. I therefore conclude that it can in no sense be a penalty, and therefore does not come within the provisions of section 829, Civil Code.
+But again, how can it be claimed that it comes within the provisions of section 830? That section simply provides that every contract, by which the amount of damage to be paid <or other compensation to be made, is determined in anticipation, that is fixed, liquidated, is to that extent — that is of fixing and determining the amount, void, unless covered by the next section. In this case the amount is not fixed or determined, but must be reasonable, and is therefore left to the determination of the court or jury on evidence.
+This court, in the case of The Bank v. Rasmussen, supra, held that under the provisions of section 831, it might be fixed and determined. As that question is not involved in this case, it is not necessary that we should review that decision. But it seems to me, that as the weight of modern adjudications is against the enforcement of stipulations for liquidated damages, that questions of attorney’s fees in contracts of this character, should be regarded as open, and left to the sound discretion and judgment of courts, upon competent evidence, so that the allowance made in all cases should be reasonable, measured by the services rendered.
+I am clearly of the opinion that the stipulation for reasonable attorney’s fees, does not come within the provisions of the Civil Code-referred to, and that it is legal and binding, and that the court below erred in disregarding the evidence introduced on this point — and in allowing plaintiff $25 under t'he stipulation in the power of sale. Had that been the only stipulation relating to attorney’s fees, contained in the instrument, and plaintiff having brought suit for the foreclosure of the mortgage, she would not have been entitled to recover under it, for that was payable only in the event of sale of the mortgaged premises under the power. (Sage v. Riggs, 12 Mich., 313.) Plaintiff must, therefore, recover under the stipulation for reasonable attorney’s fees.
+The judgment of the court below, so far as it allows and fixes the recovery for attorney’s fees, is reversed, and the cause remanded.
+REVERSED.
