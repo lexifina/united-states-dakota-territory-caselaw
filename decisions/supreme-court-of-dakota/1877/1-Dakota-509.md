@@ -1,0 +1,28 @@
+---
+court: "Supreme Court of Dakota"
+decided: "1877-12"
+citations: ["1 Dakota 509"]
+reporter: "dakota"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["G-eaNVillb G-.'BeNNEtt, Presiding Judge."]
+parties: ["John Flaherty et al, v. S. R. Gwinn et al."]
+source_url: "https://static.case.law/dakota/1/cases/0509-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8586983
+cites_cases: ["12 Nev., 312"]
+---
+
+# Flaherty v. Gwinn
+
+## Majority
+
+OPINION OE THE COURT,
+Upon the question presented by the objection, while the argument of counsel has been able, and showed evidence of much research, my mind is not altogether clear as to its full scope and ultimate bearing, but I have, come to a conclusion satisfactory to myself so far as it is properly before me. The Supreme Court of Nevada, in the case of Golden Fleece Co. v. Cable Con. Co., 12 Nev., 312, seems to have settled very clearly and definitely some points under the U. S. Mining act of May, 1872. The court in the case, say: “ Proof of a record is totally irrelevant without proof of some regulation making a record obligatory or giving it some effect.”
+Now there are more ways of proving a rule or regulation of miners, than by the act of the miners in their meetings or by a written record. Such rule or regulation may be established and shown to be in force by custom or usage. But the court in the case referred to further say: “The public law does not of itself create any such office as that of mining recorder. Neither does it make the recording of claims obligatory, or give to a record any effect. This is a matter left to the miners of the respective districts. If they make no rulerequiring a record, none is required; if they give no effect to a record, evidence of a record is irrelevant.” . Regarding this, as.I do, as a clear and correct statement of the law, it seems clear that any rule or regulation established by miners, whether it be in writing or by verbal resolutions passed in their meetings, or by usage and custom, must be binding and obligatory, and if it provides for the recording of claims with the district recorder, it must make such recording obligatory, and not leave it to the option of the locator as a matter of convenience or precaution. In other words, it must be of a character, that if complied with will give to the party recording some right under it, and if neglected deprive him of some right that he would otherwise, or in the absence of the rule, obtain. In the case above cited the court again say: “The mining laws of the United States, R,. S. sec’s 2318 to 2346, recognize and sanction the custom long prevalent among the miners of this coast of organizing mining districts and adopting local laws or rules governing the location, recording and working of claims. Existing rules not in conflict with State or Federal legislation are ratified, and express authority is conferred upon miners in their several districts to adopt other rules, subject to certain specified restrictions. Miners are thus permitted to make rules in addition to those prescribed by Congress ; but in order that mining claims may be held and the government title acquired, it is not essential that mining districts should be organized and local rules adopted. All that the government requires to be done, in order to obtain its title or license to occupy, is prescribed by law ; and, in the absence of local rules, a compliance with the public law will secure the claim. The miners in their respective districts, may, if they choose, exact something'more, but they are not obliged to do so, and no court, in the absence of proof, will presume that they have done so,” Now, in order to deprive a party of the right to property which he is enabled to acquire by a compliance with the provisions of the statutes .of the United States, by the imposition of any additional burdens or obligations imposed by rules and regulations of miners, such rules and regulations must be clear and positive in their character and requirements, and must not rest in inference or presumption ; they must impose an obligation to do some certain and specific act, which if not complied with, will, by the terms of the rule deprive the locator of some right.
+Note A. — In Fraley v. Bentley el al., page 25, Chief Justice Shannon dissented. He also dissented in the case of City <f Elk Point v. Vaughn, page 1x3.
+Where miners, in their experience deem some additional rule or regulation requisite, providing for some additional act thought necessary for the better protection of the miner and his rights in mining property, there is no doubt in my mind but that it is entirely competent for them to establish such rules and regulations (provided they are reasonable and do not conflict with Federal or Territorial legislation,) and attach penalties for their violation.
+Now, if it was the custom of miners to record all claims located in the office of the mining recorder of the district, that fact is proper to be given in evidence as one act only, tending to prove a local rule or regulation, making the recording obligatory. What weight it may be entitled to, or just how far it may tend to establish such rule, is not now under consideration.
+From an examination of the authorities, I am satisfied that the records offered in evidence are competent for the purpose of proving the custom of miners with reference to recording claims, and may be introduced for that purpose. Counsel has advised the court that they intend to follow it up with other evidence, tending to establish a rule making recording obligatory.
+The objection is overruled.
+G-eaNVillb G-.'BeNNEtt, Presiding Judge.
